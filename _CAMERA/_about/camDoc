@@ -1,0 +1,8 @@
+// SMART //
+// smart cam cap algorithms for stage dims:
+// scale max: 4,  scale min: smaller dim- multiple
+// x/y min: 0,   x/y max:  world x/y  * scale - game x/y 
+//i thought i may want t for timer/ticker.. but time has no x and y !
+//move the stage by manipulating the trackee x,y
+//these funcs can change stage, or the tick can update it every tick based on its value w.tx/ w.ty?
+//SLK: no buffer to worry about //it lets u gradually move past the target point.. until hits limit

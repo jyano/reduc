@@ -1,0 +1,101 @@
+
+// Joints between static and/or kinematic bodies are allowed, but have no effect and use some processing time.
+/*
+ 
+
+ You can specify user data for any joint type 
+
+ a you can provide a flag to prevent the attached bodies from colliding with each other. 
+ This is actually the default behavior 
+ and you must set the collideConnected Boolean to allow collision between to connected bodies.
+
+
+
+ Many joint definitions require that you provide some geometric data. 
+
+ Often a joint will be defined by anchor points. 
+ These are points fixed in the attached bodies. 
+
+ Box2D requires these points to be specified in local coordinates.
+ This way the joint can be specified even when the current body transforms violate the joint constraint
+ --- a common occurrence when a game is saved and reloaded. 
+
+
+ Additionally, 
+ some joint definitions need to know the default relative angle between the bodies. 
+ This is necessary to constrain rotation correctly.
+
+
+ many joints have initialization functions 
+ that use the current body transforms
+ to remove much of the work. 
+
+ However, these initialization functions
+ should usually only be used for prototyping. 
+
+ Production code should define the geometry directly. 
+ This will make joint behavior more robust.
+
+
+
+ */
+/*
+ bodyA : b2Body
+ The first attached body.
+ b2JointDef
+ bodyB : b2Body
+ The second attached body.
+ b2JointDef
+ collideConnected : Boolean
+ Set this flag to true if the attached bodies should collide.
+ b2JointDef
+ type : int
+ The joint type is set automatically for concrete joint types.
+ b2JointDef
+ userData : *
+ Use this to attach application specific data to your joints.
+ b2JointDef
+
+ */
+// Joints between static and/or kinematic bodies are allowed,
+// but have no effect and use some processing time.
+//j.a and j.b CANNOT 'set' the property.. is too late.. make new joint
+ 
+
+
+ You can specify user data for any joint type 
+
+ a you can provide a flag to prevent the attached bodies from colliding with each other. 
+ This is actually the default behavior 
+ and you must set the collideConnected Boolean to allow collision between to connected bodies.
+
+
+
+ Many joint definitions require that you provide some geometric data. 
+
+ Often a joint will be defined by anchor points. 
+ These are points fixed in the attached bodies. 
+
+ Box2D requires these points to be specified in local coordinates.
+ This way the joint can be specified even when the current body transforms violate the joint constraint
+ --- a common occurrence when a game is saved and reloaded. 
+
+
+ Additionally, 
+ some joint definitions need to know the default relative angle between the bodies. 
+ This is necessary to constrain rotation correctly.
+
+
+ many joints have initialization functions 
+ that use the current body transforms
+ to remove much of the work. 
+
+ However, these initialization functions
+ should usually only be used for prototyping. 
+
+ Production code should define the geometry directly. 
+ This will make joint behavior more robust.
+
+
+
+ 

@@ -1,0 +1,14 @@
+ ALL ABOUT INPUTS AND JOINTS
+ 
+joints, distance joint,
+ revolute joint,
+  mouse joint,
+invents class,
+
+ mouse input, 
+key input
+
+
+collision solving, collision manifold, 
+advanced query: ray
+advanced joints: prismatic, weld
