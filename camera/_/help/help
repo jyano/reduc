@@ -1,0 +1,6 @@
+
+	each tick, literally just sets w.sXY() based on:
+	 world dimensions, world zoom, and trackee position
+ 
+ 	- if the designated trackee optionally has its own cb,
+	 that over rules the (also optional) 'w.track.cb' cb
