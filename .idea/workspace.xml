@@ -20,7 +20,236 @@
     <favorites_list name="front" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="marioScaleScroll.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera/scroll/marioScroll/marioScaleScroll.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding>
+                <element signature="e#290#1015#0" expanded="true" />
+                <element signature="e#317#633#0" expanded="true" />
+                <element signature="e#603#618#0" expanded="false" />
+                <element signature="e#655#907#0" expanded="true" />
+                <element signature="e#677#692#0" expanded="false" />
+                <element signature="e#1055#1748#0" expanded="true" />
+                <element signature="e#1097#1239#0" expanded="true" />
+                <element signature="e#1631#1745#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="marioScrollLevelTemplates.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera/scroll/marioScroll/marioScrollLevelTemplates.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="125" column="1" selection-start-line="125" selection-start-column="1" selection-end-line="125" selection-end-column="1" />
+              <folding>
+                <element signature="e#29#89#0" expanded="true" />
+                <element signature="e#45#86#0" expanded="true" />
+                <element signature="e#123#191#0" expanded="true" />
+                <element signature="e#139#188#0" expanded="true" />
+                <element signature="e#216#279#0" expanded="true" />
+                <element signature="e#311#412#0" expanded="true" />
+                <element signature="e#444#538#0" expanded="true" />
+                <element signature="e#569#648#0" expanded="true" />
+                <element signature="e#677#808#0" expanded="true" />
+                <element signature="e#690#729#0" expanded="true" />
+                <element signature="e#838#1221#0" expanded="true" />
+                <element signature="e#942#975#0" expanded="true" />
+                <element signature="e#1092#1218#0" expanded="true" />
+                <element signature="e#1249#1669#0" expanded="true" />
+                <element signature="e#1314#1383#0" expanded="true" />
+                <element signature="e#1707#1961#0" expanded="true" />
+                <element signature="e#1773#1838#0" expanded="true" />
+                <element signature="e#1870#1947#0" expanded="true" />
+                <element signature="e#2007#2471#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dimensions.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/camera/dimensions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.49157304">
+              <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+              <folding>
+                <element signature="e#24#51#0" expanded="true" />
+                <element signature="e#668#686#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="moveUPALevel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/moveUPALevel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <folding>
+                <element signature="e#19#55#0" expanded="true" />
+                <element signature="e#78#101#0" expanded="true" />
+                <element signature="e#125#143#0" expanded="true" />
+                <element signature="e#163#199#0" expanded="true" />
+                <element signature="e#222#240#0" expanded="true" />
+                <element signature="e#260#295#0" expanded="true" />
+                <element signature="e#318#341#0" expanded="true" />
+                <element signature="e#365#383#0" expanded="true" />
+                <element signature="e#403#438#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="marioScroll.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera/scroll/marioScroll/marioScroll.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="152" column="1" selection-start-line="152" selection-start-column="1" selection-end-line="152" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!block;n#justScrollX#0" expanded="true" />
+                <element signature="e#54#141#0" expanded="true" />
+                <element signature="e#99#125#0" expanded="true" />
+                <element signature="e#174#283#0" expanded="true" />
+                <element signature="e#339#751#0" expanded="true" />
+                <element signature="e#773#910#0" expanded="true" />
+                <element signature="e#830#906#0" expanded="true" />
+                <element signature="n#!!block;n#ok___now_scrollXY#0;n#!!block;n#justScrollX#0" expanded="true" />
+                <element signature="e#978#1136#0" expanded="true" />
+                <element signature="e#1163#1236#0" expanded="true" />
+                <element signature="e#1266#1371#0" expanded="true" />
+                <element signature="e#1302#1354#0" expanded="true" />
+                <element signature="e#1404#1516#0" expanded="true" />
+                <element signature="e#1554#1777#0" expanded="true" />
+                <element signature="n#!!block;n#autoScroll#0" expanded="true" />
+                <element signature="e#2036#2188#0" expanded="true" />
+                <element signature="e#2217#2255#0" expanded="true" />
+                <element signature="e#2295#2433#0" expanded="true" />
+                <element signature="e#2472#2772#0" expanded="true" />
+                <element signature="e#2576#2681#0" expanded="true" />
+                <element signature="e#2702#2769#0" expanded="true" />
+                <element signature="e#2801#3251#0" expanded="true" />
+                <element signature="e#2986#3011#0" expanded="true" />
+                <element signature="e#3271#3490#0" expanded="true" />
+                <element signature="e#3529#3570#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="$trackApps$.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera/_/apps/$trackApps$.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="343" column="1" selection-start-line="343" selection-start-column="1" selection-end-line="343" selection-end-column="1" />
+              <folding>
+                <element signature="e#371#405#0" expanded="false" />
+                <element signature="e#413#447#0" expanded="false" />
+                <element signature="e#769#1251#0" expanded="true" />
+                <element signature="e#798#867#0" expanded="false" />
+                <element signature="e#1162#1197#0" expanded="false" />
+                <element signature="e#1207#1243#0" expanded="false" />
+                <element signature="e#1283#1738#0" expanded="true" />
+                <element signature="e#1288#1314#0" expanded="false" />
+                <element signature="e#1612#1629#0" expanded="false" />
+                <element signature="e#2313#2382#0" expanded="false" />
+                <element signature="e#2604#2633#0" expanded="false" />
+                <element signature="e#2639#2669#0" expanded="false" />
+                <element signature="e#3307#3704#0" expanded="true" />
+                <element signature="e#3779#3788#0" expanded="false" />
+                <element signature="e#4496#4505#0" expanded="false" />
+                <element signature="e#4749#4765#0" expanded="false" />
+                <element signature="e#4955#4983#0" expanded="false" />
+                <element signature="e#5202#5299#0" expanded="false" />
+                <element signature="e#6155#6386#0" expanded="true" />
+                <element signature="e#6158#6194#0" expanded="false" />
+                <element signature="e#6417#6624#0" expanded="true" />
+                <element signature="e#6542#6576#0" expanded="false" />
+                <element signature="e#6584#6618#0" expanded="false" />
+                <element signature="e#6922#6991#0" expanded="false" />
+                <element signature="e#7281#7310#0" expanded="false" />
+                <element signature="e#7318#7348#0" expanded="false" />
+                <element signature="n#!!block;n#bufferOb#0" expanded="true" />
+                <element signature="e#7855#8125#0" expanded="true" />
+                <element signature="e#8307#8315#0" expanded="false" />
+                <element signature="e#8420#8459#0" expanded="false" />
+                <element signature="e#8865#8888#0" expanded="false" />
+                <element signature="e#8909#8933#0" expanded="false" />
+                <element signature="e#9037#9058#0" expanded="false" />
+                <element signature="e#9079#9101#0" expanded="false" />
+                <element signature="e#9696#9722#0" expanded="false" />
+                <element signature="e#9750#9837#0" expanded="false" />
+                <element signature="e#9767#9798#0" expanded="false" />
+                <element signature="e#9808#9832#0" expanded="false" />
+                <element signature="e#9846#9868#0" expanded="false" />
+                <element signature="e#12973#12994#0" expanded="false" />
+                <element signature="e#13014#13036#0" expanded="false" />
+                <element signature="e#13134#13153#0" expanded="false" />
+                <element signature="e#13173#13193#0" expanded="false" />
+                <element signature="e#13645#13669#0" expanded="false" />
+                <element signature="e#13696#13776#0" expanded="false" />
+                <element signature="e#13712#13741#0" expanded="false" />
+                <element signature="e#13750#13772#0" expanded="false" />
+                <element signature="e#13784#13804#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="camDoc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera/_/camDoc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trackingBuffer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera/track/trackingBuffer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+              <folding>
+                <element signature="e#692#757#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="worldStageTranslation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spaz/worldStageTranslation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+              <folding>
+                <element signature="e#609#795#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buffScrollApps_glimpseWTF.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera/_/apps/buffScrollApps_glimpseWTF.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+              <folding>
+                <element signature="e#18#162#0" expanded="true" />
+                <element signature="e#187#295#0" expanded="true" />
+                <element signature="e#224#282#0" expanded="true" />
+                <element signature="e#322#455#0" expanded="true" />
+                <element signature="e#499#715#0" expanded="true" />
+                <element signature="e#868#922#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,12 +263,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_SPAZ/spriteShapes/BODIES/BOX.js" />
-        <option value="$PROJECT_DIR$/_SPAZ/bindSprite.js" />
-        <option value="$PROJECT_DIR$/_SPAZ/b_H_withExample.js" />
-        <option value="$PROJECT_DIR$/w_kill_b.js" />
-        <option value="$PROJECT_DIR$/_SPAZ/kill_fixture.js" />
-        <option value="$PROJECT_DIR$/_SPAZ/kill_world.js" />
+        <option value="$PROJECT_DIR$/camera/scrollingMarioLevels.js" />
+        <option value="$PROJECT_DIR$/camera/marioScroll.js" />
+        <option value="$PROJECT_DIR$/camera/marioScaleScroll.js" />
+        <option value="$PROJECT_DIR$/camera/marioScrollLevelTemplates.js" />
+        <option value="$PROJECT_DIR$/camera/dimensions.js" />
+        <option value="$PROJECT_DIR$/_/moveUPALevel.js" />
       </list>
     </option>
   </component>
@@ -51,10 +280,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="199" />
-    <option name="y" value="251" />
-    <option name="width" value="1077" />
-    <option name="height" value="706" />
+    <option name="x" value="43" />
+    <option name="y" value="155" />
+    <option name="width" value="1003" />
+    <option name="height" value="858" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -97,6 +326,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reduc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camera" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reduc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bugBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reduc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope">
@@ -128,7 +399,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_ZOOM" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/admin/Desktop/face/a/superWeb/flexy.js" />
@@ -143,11 +414,11 @@
       <recent name="$PROJECT_DIR$/box" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_SPAZ/_about" />
-      <recent name="$PROJECT_DIR$/_SPAZ/BODIES" />
-      <recent name="$PROJECT_DIR$/_SPAZ/bindSprite" />
-      <recent name="$PROJECT_DIR$/_GEO" />
-      <recent name="$PROJECT_DIR$/_SPAZ/spriteShapes" />
+      <recent name="$PROJECT_DIR$/camera/_" />
+      <recent name="$PROJECT_DIR$/camera/track" />
+      <recent name="$PROJECT_DIR$/camera/characterScrolling" />
+      <recent name="$PROJECT_DIR$/camera" />
+      <recent name="$PROJECT_DIR$/camera/_/marioScroll" />
     </key>
   </component>
   <component name="RunManager">
@@ -175,19 +446,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="199" y="251" width="1077" height="706" extended-state="0" />
-    <editor active="false" />
+    <frame x="43" y="155" width="1003" height="858" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.24941905" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="297" y="279" width="310" height="413" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.24941905" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="48" y="110" width="310" height="413" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.66924864" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" x="16" y="60" width="252" height="877" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.66924864" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" x="1112" y="199" width="509" height="845" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20286885" sideWeight="0.5031111" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09902371" sideWeight="0.49688888" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4690027" sideWeight="0.49688888" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -195,6 +466,24 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14690027" sideWeight="0.49688888" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20286885" sideWeight="0.5031111" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.24941905" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="48" y="110" width="310" height="413" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.66924864" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" x="665" y="22" width="509" height="861" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -212,55 +501,141 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_SPAZ/bindSprite/body_shape.js">
+    <entry file="file://$PROJECT_DIR$/camera/track/tracking.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        <state vertical-scroll-proportion="-12.037037">
+          <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
           <folding>
-            <element signature="e#21#1535#0" expanded="true" />
-            <element signature="e#1555#1622#0" expanded="true" />
-            <element signature="e#1877#2027#0" expanded="true" />
-            <element signature="e#2057#2192#0" expanded="true" />
+            <element signature="e#77#94#0" expanded="false" />
+            <element signature="e#460#592#0" expanded="false" />
+            <element signature="e#599#718#0" expanded="false" />
+            <element signature="e#794#818#0" expanded="false" />
+            <element signature="e#913#937#0" expanded="false" />
+            <element signature="e#1036#1072#0" expanded="false" />
+            <element signature="e#1141#1217#0" expanded="true" />
+            <element signature="e#1245#1356#0" expanded="true" />
+            <element signature="e#1320#1340#0" expanded="false" />
+            <element signature="e#1438#1454#0" expanded="false" />
+            <element signature="e#3188#3288#0" expanded="false" />
+            <element signature="e#3652#3721#0" expanded="false" />
+            <element signature="e#3695#3716#0" expanded="false" />
+            <element signature="e#3730#3798#0" expanded="false" />
+            <element signature="e#3772#3793#0" expanded="false" />
+            <element signature="e#4191#4260#0" expanded="false" />
+            <element signature="e#4527#4562#0" expanded="false" />
+            <element signature="e#4568#4604#0" expanded="false" />
+            <element signature="e#4749#4818#0" expanded="false" />
+            <element signature="e#5078#5113#0" expanded="false" />
+            <element signature="e#5123#5159#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w_kill_body.js">
+    <entry file="file://$PROJECT_DIR$/camera/scroll/marioScroll/marioScrollLevelTemplates.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14516129">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="125" column="1" selection-start-line="125" selection-start-column="1" selection-end-line="125" selection-end-column="1" />
           <folding>
-            <element signature="e#29#88#0" expanded="true" />
-            <element signature="e#49#85#0" expanded="true" />
+            <element signature="e#29#89#0" expanded="true" />
+            <element signature="e#45#86#0" expanded="true" />
+            <element signature="e#123#191#0" expanded="true" />
+            <element signature="e#139#188#0" expanded="true" />
+            <element signature="e#216#279#0" expanded="true" />
+            <element signature="e#311#412#0" expanded="true" />
+            <element signature="e#444#538#0" expanded="true" />
+            <element signature="e#569#648#0" expanded="true" />
+            <element signature="e#677#808#0" expanded="true" />
+            <element signature="e#690#729#0" expanded="true" />
+            <element signature="e#838#1221#0" expanded="true" />
+            <element signature="e#942#975#0" expanded="true" />
+            <element signature="e#1092#1218#0" expanded="true" />
+            <element signature="e#1249#1669#0" expanded="true" />
+            <element signature="e#1314#1383#0" expanded="true" />
+            <element signature="e#1707#1961#0" expanded="true" />
+            <element signature="e#1773#1838#0" expanded="true" />
+            <element signature="e#1870#1947#0" expanded="true" />
+            <element signature="e#2007#2471#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_SPAZ/BODIES/ROCK.js">
+    <entry file="file://$PROJECT_DIR$/camera/track/track.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <caret line="249" column="1" selection-start-line="249" selection-start-column="1" selection-end-line="249" selection-end-column="1" />
+          <folding>
+            <element signature="e#150#163#0" expanded="false" />
+            <element signature="e#237#318#0" expanded="true" />
+            <element signature="e#472#531#0" expanded="true" />
+            <element signature="e#726#924#0" expanded="false" />
+            <element signature="e#1065#1075#0" expanded="false" />
+            <element signature="e#1128#1151#0" expanded="false" />
+            <element signature="e#1178#1199#0" expanded="false" />
+            <element signature="e#1202#1257#0" expanded="false" />
+            <element signature="e#1432#1475#0" expanded="false" />
+            <element signature="e#1513#1575#0" expanded="false" />
+            <element signature="e#3428#3489#0" expanded="true" />
+            <element signature="e#3552#3591#0" expanded="false" />
+            <element signature="e#3708#3729#0" expanded="false" />
+            <element signature="e#3840#4020#0" expanded="false" />
+            <element signature="e#4042#4177#0" expanded="false" />
+            <element signature="e#4269#5114#0" expanded="false" />
+            <element signature="e#5121#5632#0" expanded="false" />
+            <element signature="e#5128#5178#0" expanded="false" />
+            <element signature="e#5317#5336#0" expanded="false" />
+            <element signature="e#5373#5396#0" expanded="false" />
+            <element signature="e#5400#5455#0" expanded="false" />
+            <element signature="e#5681#5740#0" expanded="true" />
+            <element signature="e#5767#6135#0" expanded="true" />
+            <element signature="e#5804#5921#0" expanded="true" />
+            <element signature="e#5964#6133#0" expanded="true" />
+            <element signature="e#5991#6130#0" expanded="true" />
+            <element signature="e#6054#6111#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_SPAZ/BODIES/spriteSensor.js">
+    <entry file="file://$PROJECT_DIR$/games/characters/mario/$player.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="20" />
+          <caret line="589" column="1" selection-start-line="589" selection-start-column="1" selection-end-line="589" selection-end-column="1" />
+          <folding>
+            <element signature="e#5892#5922#0" expanded="true" />
+            <element signature="e#6943#7048#0" expanded="true" />
+            <element signature="e#6984#7032#0" expanded="true" />
+            <element signature="e#8936#9562#0" expanded="true" />
+            <element signature="e#9501#9546#0" expanded="true" />
+            <element signature="e#9589#9878#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_SPAZ/BODIES/BAG.js">
+    <entry file="file://$PROJECT_DIR$/_/moveUPALevel.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#19#55#0" expanded="true" />
+            <element signature="e#78#101#0" expanded="true" />
+            <element signature="e#125#143#0" expanded="true" />
+            <element signature="e#163#199#0" expanded="true" />
+            <element signature="e#222#240#0" expanded="true" />
+            <element signature="e#260#295#0" expanded="true" />
+            <element signature="e#318#341#0" expanded="true" />
+            <element signature="e#365#383#0" expanded="true" />
+            <element signature="e#403#438#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_STAGE/ct_dot.js">
+    <entry file="file://$PROJECT_DIR$/camera/dimensions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9516129">
-          <caret line="471" column="1" selection-start-line="471" selection-start-column="1" selection-end-line="471" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.49157304">
+          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+          <folding>
+            <element signature="e#24#51#0" expanded="true" />
+            <element signature="e#668#686#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

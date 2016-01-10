@@ -1,0 +1,63 @@
+https://www.youtube.com/watch?v=u67fbxe8xxY
+
+// start:
+
+ 1) we want cam to follow player, but ...
+2) leeway - cam can view a little bit 'past (front or behind, depending his movement direction) the player' (margin)
+3) limits/constraints of the world (stay within the bounds),
+ 	-always within
+ 	3:00
+ 	  max and mins (yes, there are max's and min's)
+ 	  /////
+ 	  3:20
+ 	  
+ 	  so there is a box around the player (that gives it it's leeway)
+ 	  
+ 	 	( which is the 'game size'? ) (but it is also the camera)
+ 	 			(so the camera is the game?)
+ 	 	
+ 	    and we want
+ 	  to keep THAT box within the box that represents the world
+ 	  
+ 	  -following the player itself is easy
+ 	  
+ 	  "IT'S JUST LERPING TO THE PLAYER'S POSITION,
+ 	   THROWING IN SOME SMOOTHING.. 
+ 	   AND TOSSING IN  A MARGIN"
+ 	   
+ 	   the hard part is keeping it within the box..
+ 	   
+ 	   
+ 	   
+ 	   the orthographic size of an (orthographic) camera is
+ 	   
+ 	    
+ 	    		 'how big the camera is horizontally'
+ 	   
+ 	  	(< he shows a vertical 'radius' of the player square)
+ 	  	
+ 	  	 	  	 4:30 ~  goes to unity ~
+ 	  	 	  	 'while we scale it down, things get bigger and vice versa'
+ 	  	 	  	 
+ 	  	 	  	 'so the orthographic size is really a RELATIONSHIP between half the height of the camera'
+ 	  	 	  	 
+ 	  	 	  	 He really says that.
+ 	  	 	  		
+ 	  	 	  		..
+ 	  	 	  		
+ 	  	 	  		so the higher the height is, the wider the camera gets
+ 	  	 	  		
+ 	  	 	  		and notice that when i increse the orghoagraphic dize, it also gets bigger in
+ 	  	 	  		the other dimensions
+ 	  	 	  		-thats because the orthographic size also works with the
+ 	  	 	  		aspect RATIO  of the camera
+ 	  	 	  	   
+ 	  	 	  	   
+ 	  	 	  	  appendix:
+ 	  	 	  	  
+ 	  	 	  	  lerping
+ 	  	 	  	  its an animation technique in unity, similar to tweening and binding to time and a function
+ 	  	 	  	  it's just to make a smooth transition between properties (location, coloring, etc.)
+ 	  	 	  	  they have values: from, to, original
+ 	  	 	  	  'if i want to increase the speed, i crank up my smooth value'
+ 	  	 	  	  https://www.youtube.com/watch?v=cD-mXwSCvWc
